@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Screening Test</string>
+
+    <string-array name="Nama_Event">
+        <item>ABC event</item>
+        <item>DEF event</item>
+        <item>GHI event</item>
+        <item>JKL event</item>
+    </string-array>
+
+    <string-array name="Tanggal_Event">
+        <item>15 September 2021</item>
+        <item>23 Agustus 2021</item>
+        <item>14 November 2021</item>
+        <item>3 Juli 2022</item>
+    </string-array>
+</resources>
